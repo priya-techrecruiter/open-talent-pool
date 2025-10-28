@@ -1,2 +1,23 @@
-# open-talent-pool
-“A place for developers and tech professionals (actively looking for tech job opportunities) to connect and share their profiles 
+# 🌐 Open Tech Talent Pool  
+
+Welcome 👋  
+This space is built for professionals across **Software, QA, DevOps, Cloud, Data, and UI/UX** who are exploring new opportunities or referring talented peers.  
+
+If you’re looking for your next role or wish to recommend someone:  
+
+📝 **Resume Submission Form** → https://forms.gle/zD79qLJNtDe9d4pQ6  
+🤝 **Referral Form** → https://forms.gle/PTQcfgWqhXyqWyJB7 
+
+📫 All submissions remain **completely private** — accessible only to me.  
+This Talent Pool is built in **GitHub**, the same platform trusted by tech teams worldwide 🚀  
+
+---
+
+### 💼 About the Recruiter  
+I’m [Priya Bency Vargheese](https://github.com/priyavargheese/priya-techrecruiter), a **freelance tech recruiter** connecting talented engineers with innovative IT and product-based organizations.  
+
+🔗 Learn more about me → [Priya Tech Recruiter GitHub Profile](https://github.com/priyavargheese/priya-techrecruiter)
+
+---
+
+✅ **Note:** You don’t need a GitHub account to submit your profile — just click the form links above and share your details confidentially.

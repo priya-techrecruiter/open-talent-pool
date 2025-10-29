@@ -1,3 +1,5 @@
+![Talent Pool Header](https://img.shields.io/badge/Open%20Tech%20Talent%20Pool-Now%20Accepting%20Profiles-blueviolet?style=for-the-badge)
+
 # 🌐 Open Tech Talent Pool  
 
 Welcome 👋  

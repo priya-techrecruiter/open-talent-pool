@@ -1,8 +1,3 @@
-
-https://github.com/priya-techrecruiter/open-talent-pool/blob/main/ChatGPT%20Image%20Oct%2029%2C%202025%2C%2011_58_44%20PM.png
-
-![Talent Pool Header](https://img.shields.io/badge/Open%20Tech%20Talent%20Pool-Now%20Accepting%20Profiles-blueviolet?style=for-the-badge)
-
 # 🌐 Open Tech Talent Pool  
 
 Welcome 👋  

@@ -21,9 +21,9 @@ This Talent Pool is built in **GitHub**, the same platform trusted by tech teams
 ---
 
 ### 💼 About the Recruiter  
-I’m , **Priya Bency Vargheese**, a **freelance tech recruiter** connecting talented engineers with innovative IT and product-based organizations.  
+I’m , **Priya Bency Vargheese**, a **freelance tech recruiter**, connecting talented engineers with innovative IT and product-based organizations.  
 
-🔗 Learn more about me → [Priya Tech Recruiter GitHub Profile](https://github.com/priya-techrecruiter/priya-techrecruiter)
+🔗 Learn more about me → [Priya Tech Recruiter GitHub Profile](https://github.com/priya-techrecruiter)
 
 ---
 

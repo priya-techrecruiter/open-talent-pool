@@ -5,8 +5,15 @@ This space is built for professionals across **Software, QA, DevOps, Cloud, Data
 
 If you’re looking for your next role or wish to recommend someone:  
 
-📝 **Resume Submission Form** → https://forms.gle/zD79qLJNtDe9d4pQ6  
-🤝 **Referral Form** → https://forms.gle/PTQcfgWqhXyqWyJB7 
+<p>
+📝 <strong>Resume Submission Form:</strong> 
+<a href="https://forms.gle/zD79qLJNtDe9d4pQ6" target="_blank">Submit Here</a>
+</p>
+
+<p>
+🤝 <strong>Referral Form:</strong> 
+<a href="https://forms.gle/PTQcfgWqhXyqWyJB7" target="_blank">Submit Here</a>
+</p>
 
 📫 All submissions remain **completely private** — accessible only to me.  
 This Talent Pool is built in **GitHub**, the same platform trusted by tech teams worldwide 🚀  
